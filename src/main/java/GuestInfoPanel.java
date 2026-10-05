@@ -6,7 +6,6 @@ import javax.swing.JSpinner;
 import javax.swing.JTextField;
 import javax.swing.SpinnerNumberModel;
 
-/** Panel for the guest's personal details. */
 public class GuestInfoPanel extends JPanel {
 
     private final JTextField nameField = new JTextField();
